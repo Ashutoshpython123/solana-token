@@ -12,7 +12,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ### Getting Started
 ```
-- git clone https://github.com/sahirnadeem/spl-token.git
+- git clone
 - npm install
 - solana config set --url https://api.devnet.solana.com
 - anchor build
